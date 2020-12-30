@@ -39,4 +39,4 @@ Création d'une application mobile affichant une liste d'éléments ainsi que le
 
 ## API
 
-Pas d'api utilisée, mais facilement intégrable avec la recycler view. Les screenshots sont avec les données sample proposées par android studio.
+Pas d'api utilisée, mais facilement intégrable avec la recycler view. Les screenshots sont avec les données sample proposées par android studio ce qui revient au même.
