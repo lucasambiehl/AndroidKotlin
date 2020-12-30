@@ -1,5 +1,6 @@
 package com.example.androidkotlin.presentation.main
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
@@ -35,6 +36,9 @@ class MainActivity : AppCompatActivity() {
         })
         login_button.setOnClickListener {
             mainViewModel.onClickedLogin(login_edit.text.toString().trim(), password_edit.text.toString())
+            val intent = Intent(this, ListActivity::class.java)
+            startActivity(intent)
+
         }
     }
 }
