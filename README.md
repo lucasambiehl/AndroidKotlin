@@ -21,7 +21,7 @@ Création d'une application mobile affichant une liste d'éléments ainsi que le
 <img src="images/connect.png" width="250">
 
 **Erreur lorsque l'utilisateur n'est pas connu de la BDD**  
-<img src="images/toasterror.png" width="250">
+<img src="images/errortoast.png" width="250">
 
 **Liste des éléments à afficher**  
 <img src="images/Liste.png" width="250">
