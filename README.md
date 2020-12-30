@@ -19,7 +19,7 @@ Création d'une application mobile affichant une liste d'éléments ainsi que le
 ### Screenshots du projet 
 
 **Ecran de connexion**  
-<img src="images/connect.png" width="250">
+<img src="images/ferrarilogin.png" width="250">
 
 **Erreur lorsque l'utilisateur n'est pas connu de la BDD**  
 <img src="images/errortoast.png" width="250">
