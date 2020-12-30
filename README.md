@@ -13,6 +13,7 @@ Création d'une application mobile affichant une liste d'éléments ainsi que le
 * Travail sur Koin et Room
 * Features
 * Tests unitaires
+* Ajout de bouton pour passer d'une activité à une autre
 
 
 ### Screenshots du projet 
