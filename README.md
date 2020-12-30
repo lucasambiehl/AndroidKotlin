@@ -18,19 +18,19 @@ Création d'une application mobile affichant une liste d'éléments ainsi que le
 ### Screenshots du projet 
 
 **Ecran de connexion**  
-<img src="images/connect" width="250">
+<img src="images/connect.png" width="250">
 
 **Erreur lorsque l'utilisateur n'est pas connu de la BDD**  
-<img src="images/toasterror" width="250">
+<img src="images/toasterror.png" width="250">
 
 **Liste des éléments à afficher**  
-<img src="images/Liste" width="250">
+<img src="images/Liste.png" width="250">
 
 **Affichage d'un toast lorsque l'on clique sur un élément de la liste**  
 <img src="images/toastelement.png" width="250">  
 
 **Liste des éléments à afficher avec le sample d'Android Studio**  
-<img src="images/listesample" width="250">
+<img src="images/listesample.png" width="250">
 
 
 ## Auteur
