@@ -16,6 +16,6 @@
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="4dp"
         tools:itemCount="17"
-        tools:listitem="@layout/item_layout" />
+        tools:listitem="@layout/recycler_view_item" />
 
 </RelativeLayout>
